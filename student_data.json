@@ -1,0 +1,28 @@
+{
+    "name": "Bhavishya",
+    "reg_no": "26bai",
+    "branch": "cse",
+    "tasks": [
+        {
+            "task": "complete",
+            "completed": false
+        }
+    ],
+    "attendance": {
+        "attendance": 0,
+        "total": 32,
+        "attended": 30
+    },
+    "expenses": [
+        {
+            "category": "food",
+            "amount": 40.0
+        }
+    ],
+    "marks": [
+        {
+            "subject": "math",
+            "marks": 58.0
+        }
+    ]
+}
