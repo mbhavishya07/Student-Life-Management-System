@@ -1,17 +1,21 @@
 {
-    "name": "Bhavishya",
-    "reg_no": "26bai",
+    "name": "bhavishya",
+    "reg_no": "2345678",
     "branch": "cse",
     "tasks": [
         {
             "task": "complete",
             "completed": false
+        },
+        {
+            "task": "complete cse",
+            "completed": true
         }
     ],
     "attendance": {
         "attendance": 0,
-        "total": 32,
-        "attended": 30
+        "total": 6,
+        "attended": 4
     },
     "expenses": [
         {
